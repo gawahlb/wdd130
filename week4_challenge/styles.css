@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Open+Sans:wght@300&display=swap');
+
+:root{
+    --font-one: "Gabarito";
+    --font-two: "Open Sans";
+}
+
+
+body{
+    background-color: rgb(255, 174, 188);
+    text-align: center;
+    margin:auto 20%;
+}
+a{
+    color: white;
+    font-size: 1em;
+}
+nav p{
+    color: white;
+    font-size: 2em;
+}
+nav p:hover{
+    color: black;
+}
+p{
+    color: black;
+}
+img{
+    width: 50%;
+    margin: 10%;
+}
+#title{
+    padding:3%;
+    font-family: var(--font-one);
+}
+.top{
+    color: white;
+    font-size: .9em;
+}
+.name{
+    color: white;
+    font-size: 1em;
+    font-weight:bold; 
+    font-family: var(--font-one);
+}
+.gojc{
+    text-align: left;
+    margin: 5px 20%;
+    font-weight:bold;
+    font-family: var(--font-one);
+}
+.quote{
+    color: white;
+    font-size: 2em;
+    margin: 5% 15%;
+}
+.bottom{
+    font-size: .8em;
+    margin: 0;
+    font-family: var(--font-two);
+}
