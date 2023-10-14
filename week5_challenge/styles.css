@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+header{
+    margin: 0;
+    padding: 0;
+}
+.banner{ 
+    background-size: cover;
+    width: 100%;
+}
+.bottom{
+    display: inline;
+    border-radius: 70%;
+    border: 10px solid rgb(66, 65, 65);
+    width: 20%;
+    margin: 20px 2em;
+}
