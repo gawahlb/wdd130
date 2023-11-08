@@ -236,7 +236,7 @@ footer .social img{
 .question_heading, .question_body{
     text-align: left;
     display: grid;
-    grid-template-columns: 1fr, 4fr, 1fr;
+    grid-template-columns: 1fr 4fr 1fr;
     grid-column: 2/3;
     margin-left: 150px;
     margin-right: 150px;
