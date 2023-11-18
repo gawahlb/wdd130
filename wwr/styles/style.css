@@ -232,7 +232,7 @@ footer .social img{
 }
 .question4{
     grid-row: 5/6;
-}
+} 
 .question_heading, .question_body{
     text-align: left;
     grid-column: 2/3;
