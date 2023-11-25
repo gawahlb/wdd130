@@ -57,7 +57,7 @@ p{
 .self_description{
     grid-column: 2/3;
     font-size: 1.5em;
-    padding-bottom: 10%;
+    padding-bottom: 5%;
 }
 .thirty_second_statement{
     grid-column: 2/3;
